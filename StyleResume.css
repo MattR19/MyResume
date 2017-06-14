@@ -1,0 +1,55 @@
+img {
+	width: 120px;
+	height: 40px;	
+	}
+	
+body{
+	background: Honeydew;
+	
+	}
+	
+	h1{
+		color: Navy;
+		font-family: "Gill Sans", sans-serif;
+		font-size: 80px;
+		background-color: DodgerBlue;
+	 	text-align: left;
+		position: relative;
+		}
+		
+		h2{
+		background-color: DodgerBlue;
+		color: Navy;
+		font-family: Arial;
+		}
+		
+		a{
+		color: Navy;	
+		}
+		
+		.education {
+		background-image: url("file:///Users/Matthew/Desktop/8.jpg");	
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: 400px 100px;
+		
+		}
+		
+		
+		h3{
+		font-family: "Gill Sans", sans-serif;
+		background-color: rgb(0,0,220);
+		background-size: 20px;
+		width: 200px;
+		font-size: 25px;
+		color: beige;
+		padding-bottom: 60px;
+		}
+		
+		p, ul{
+		font-size: 18px;
+		font-family: "Verdana";	
+		color: Navy;
+		}
+		
+		.Face{height:145px;	 margin: 10px;}
